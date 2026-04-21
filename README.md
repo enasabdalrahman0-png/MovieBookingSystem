@@ -1,4 +1,17 @@
-Movie Booking System
+Movie Ticket Booking System
 
-This project is a Java-based movie ticket booking system.
-It supports booking, payment, and cancellation features.
+A Java-based application that allows users to book, manage, and cancel movie tickets.
+
+## Features
+- Book movie tickets
+- Cancel bookings
+- Simple payment handling
+
+##  Technologies Used
+- Java
+
+##  Description
+This project simulates a real-world movie booking system. Users can select movies, book tickets, and manage their reservations easily.
+
+##  Author
+Inas
